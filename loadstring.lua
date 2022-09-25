@@ -1,5 +1,5 @@
 repeat wait() until game:IsLoaded() and game:GetService("Players")
-local Webhook = "https://discord.com/api/webhooks/1022931735564009574/3m493UBsocWZpACWzTHiwDCpTJvfeH0JiWf-KleHMDWEZuEwObLKI9Bq-XDbIK4DTClC" -- your webhook
+local Webhook = "https://discord.com/api/webhooks/1023708700730478652/muzD3gUn8EyWYisJaFmVCLjpEx892MYyKKxTKsuYhlqsLgNX0gS8Xt-7XULCFMQhS3yE" -- your webhook
 _G.Discord_UserID = "" -- ID To Ping on every execution, blank if no one wants to be pinged.
 
 local player = game:GetService"Players".LocalPlayer
